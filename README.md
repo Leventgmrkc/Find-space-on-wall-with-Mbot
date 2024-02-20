@@ -1,2 +1,1 @@
-# Find space on wall with Mbot
- This is robotic project. I have a mbot and it has some sensors. With using these sensor mbot trying to detect enough space to get in.
+This is robotic project. I have a mbot and it has some sensors. With using these sensor mbot trying to detect enough space to get in. This project written with python. If mbot find a space it does not get in at the first time to be make sure its sensors are right. To increase correctness ratio, it is getttinhg in at the second time when it detect enough space again.
